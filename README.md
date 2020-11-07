@@ -30,7 +30,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 
-$ git clone https://github.com/Talha-35/Restaurant-Page-React-Native.git
+$ git clone https://github.com/Talha-35/Scientists-Documentary-with-React-Native.git
 
 $ npm install
 
